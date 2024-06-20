@@ -61,10 +61,4 @@ Air will monitor your files for changes and automatically reload the server.
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-By following these steps, you will be able to set up and run the Go Lang Gin Starter App with hot reloading enabled, making development faster and more efficient.
